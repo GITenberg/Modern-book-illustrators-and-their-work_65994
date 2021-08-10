@@ -1,0 +1,35 @@
+_repo: Modern-book-illustrators-and-their-work_65994
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Halton, Ernest G.
+    gutenberg_agent_id: '53585'
+    url: http://www.gutenberg.org/2009/agents/53585
+creator:
+  author:
+    agent_name: Salaman, M. C.
+    gutenberg_agent_id: '53584'
+    url: http://www.gutenberg.org/2009/agents/53584
+  editor:
+    agent_name: Holme, C. Geoffrey (Charles Geoffrey)
+    aliases:
+    - Holme, C. G. (Charles Geoffrey)
+    - Holme, Geoffrey
+    - Holme, Charles Geoffrey
+    birthdate: 1887
+    deathdate: 1954
+    gutenberg_agent_id: '25298'
+    url: http://www.gutenberg.org/2009/agents/25298
+description: ''
+gutenberg_issued: '2021-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Modern book illustrators and their work
+url: http://www.gutenberg.org/ebooks/65994
